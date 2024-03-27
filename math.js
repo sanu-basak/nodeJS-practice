@@ -6,4 +6,7 @@ const diff = (a,b) => {
     return a-b
 }
 
-export {sum,diff}
+module.exports = {
+    sum,diff
+}
+
