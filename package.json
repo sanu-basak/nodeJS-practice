@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "Node practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanu-basak/nodeJS-practice.git"
+  },
+  "keywords": [
+    "sanu-basak",
+    "node-practice"
+  ],
+  "author": "sanu-basak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanu-basak/nodeJS-practice/issues"
+  },
+  "homepage": "https://github.com/sanu-basak/nodeJS-practice#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}
