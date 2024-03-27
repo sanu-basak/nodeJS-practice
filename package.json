@@ -23,6 +23,7 @@
   "homepage": "https://github.com/sanu-basak/nodeJS-practice#readme",
   "dependencies": {
     "express": "^4.18.3",
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "url": "^0.11.3"
   }
 }
